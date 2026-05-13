@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="hero.svg" alt="Abdallah Abida - AI Architect" width="100%" />
+  <img src="./hero.svg" width="100%" alt="Abdallah Abida - AI Architect" />
 </div>
 
 <br>
@@ -80,8 +80,8 @@
     </td>
     <td width="50%" style="border: 1px solid rgba(255,255,255,0.1); padding: 20px; border-radius: 8px;">
       <h3>Global AI Hackathons</h3>
-      <p><i>Lablab.ai Engagements</i></p>
-      <p>Architected high-performance intelligence tools in massive competitive environments: <b>Trae AI IDE Zero Limits</b> and <b>Raise Your Hack</b>. Engineered rapid LLM implementations.</p>
+      <p><i>Competitive AI Engineering</i></p>
+      <p>Architected and deployed high-performance intelligence tools in massive, time-constrained global competitive environments. Engineered rapid LLM implementations and scalable AI solutions under pressure.</p>
     </td>
   </tr>
   <tr style="border: none;">
@@ -145,17 +145,23 @@
 ## 📈 Live Telemetry & Execution Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x4uc&show_icons=true&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FFD1&icon_color=00FFD1&text_color=E6EDF3&ring_color=00FFD1" alt="GitHub Stats" />
+  <a href="https://github.com/x4uc">
+    <img src="https://github-readme-stats.vercel.app/api?username=x4uc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&ring_color=00FFD1" alt="GitHub Enterprise Stats" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x4uc&layout=compact&theme=radical&bg_color=0D1117&border_color=30363D&title_color=00FFD1&icon_color=00FFD1&text_color=E6EDF3" alt="Top Languages" />
+  <a href="https://github.com/x4uc">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x4uc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff" alt="Top Architecture Languages" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=x4uc&bg_color=0D1117&color=00FFD1&line=00FFD1&point=ffffff&area=true&hide_border=true&custom_title=System%20Commits%20&%20Contributions" alt="Contribution Graph" />
+  <a href="https://github.com/x4uc">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=x4uc&bg_color=0D1117&color=ffffff&line=00FFD1&point=ffffff&area=true&hide_border=true&custom_title=Enterprise%20System%20Commits&title_color=ffffff&animate=true" alt="Animated Contribution Graph" width="100%" />
+  </a>
 </div>
