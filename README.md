@@ -26,35 +26,31 @@
 
 <table align="center" width="100%" style="background-color: transparent; border: none;">
   <tr style="border: none;">
-    <td align="left" width="25%" style="border: none; vertical-align: top;">
-      <h4>LANGUAGES</h4>
-      <br>
+    <td align="center" valign="top" width="25%" style="border: none; padding-top: 0;">
+      <h4 align="center" style="margin-top: 0;">LANGUAGES</h4>
       <img src="https://img.shields.io/badge/-Python_Scientific-3776AB?style=flat-square&logo=python&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
-    <td align="left" width="25%" style="border: none; vertical-align: top;">
-      <h4>DATA & AI</h4>
-      <br>
+    <td align="center" valign="top" width="25%" style="border: none; padding-top: 0;">
+      <h4 align="center" style="margin-top: 0;">DATA & AI</h4>
       <img src="https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-Data_Analytics-0052CC?style=flat-square&logo=powerbi&logoColor=white" />
     </td>
-    <td align="left" width="25%" style="border: none; vertical-align: top;">
-      <h4>CYBERSECURITY</h4>
-      <br>
+    <td align="center" valign="top" width="25%" style="border: none; padding-top: 0;">
+      <h4 align="center" style="margin-top: 0;">CYBERSECURITY</h4>
       <img src="https://img.shields.io/badge/-Pentesting-000000?style=flat-square&logo=kali-linux&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-Bug_Bounty-E53935?style=flat-square&logo=hackerone&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-Vulnerability_Assmnt-DC382D?style=flat-square&logo=owasp&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-Cisco_Net_Sec-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
     </td>
-    <td align="left" width="25%" style="border: none; vertical-align: top;">
-      <h4>DEVOPS & INFRA</h4>
-      <br>
+    <td align="center" valign="top" width="25%" style="border: none; padding-top: 0;">
+      <h4 align="center" style="margin-top: 0;">DEVOPS & INFRA</h4>
       <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-GitLab_CI|CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" /><br><br>
@@ -73,19 +69,19 @@
 
 <table width="100%" style="background: transparent; border: none;">
   <tr style="border: none;">
-    <td width="50%" style="border: 1px solid rgba(255,255,255,0.1); padding: 20px; border-radius: 8px;">
+    <td width="50%" style="border: 1px solid rgba(255,255,255,0.1); padding: 20px; border-radius: 8px;" valign="top">
       <h3>X4U Bio</h3>
       <p><i>Flagship Enterprise Initiative</i></p>
       <p>An AI-driven health analytics platform engineered with zero-trust principles. Leverages TypeScript, Gemini API, and Firebase to pioneer encrypted, real-time diagnostic synthesis.</p>
     </td>
-    <td width="50%" style="border: 1px solid rgba(255,255,255,0.1); padding: 20px; border-radius: 8px;">
+    <td width="50%" style="border: 1px solid rgba(255,255,255,0.1); padding: 20px; border-radius: 8px;" valign="top">
       <h3>Global AI Hackathons</h3>
       <p><i>Competitive AI Engineering</i></p>
       <p>Architected and deployed high-performance intelligence tools in massive, time-constrained global competitive environments. Engineered rapid LLM implementations and scalable AI solutions under pressure.</p>
     </td>
   </tr>
   <tr style="border: none;">
-    <td colspan="2" style="border: 1px solid rgba(255,255,255,0.1); padding: 20px; border-radius: 8px;">
+    <td colspan="2" style="border: 1px solid rgba(255,255,255,0.1); padding: 20px; border-radius: 8px;" valign="top">
       <h3>Enterprise Security Consulting</h3>
       <p><i>Freelance Operations</i></p>
       <p>Delivered mission-critical security auditing, bug bounty triaging, and infrastructure vulnerability assessments. Deployed automation pipelines for continuous security scanning and compliance enforcement across diverse enterprise tech stacks.</p>
@@ -97,11 +93,10 @@
 
 ## 📜 Massive Credentials Matrix
 
-<table width="100%" style="background-color: transparent; border: none;">
+<table align="center" width="100%" style="background-color: transparent; border: none;">
   <tr style="border: none;">
-    <td width="50%" style="border: none; vertical-align: top;">
-      <h3>🧠 AI & Machine Learning</h3>
-      <br>
+    <td align="center" valign="top" width="33%" style="border: none;">
+      <h3 align="center">🧠 AI & Machine Learning</h3>
       <img src="https://img.shields.io/badge/Stanford-Supervised_ML-8C1515?style=for-the-badge&logo=stanford&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Stanford-Adv_Learning_Algos-8C1515?style=for-the-badge&logo=stanford&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Stanford-Unsupervised_Learning-8C1515?style=for-the-badge&logo=stanford&logoColor=white" /><br><br>
@@ -109,15 +104,15 @@
       <img src="https://img.shields.io/badge/IBM-Machine_Learning_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Cambridge-Ethical_AI-A3C1AD?style=for-the-badge&logo=universityofcambridge&logoColor=white" />
     </td>
-    <td width="50%" style="border: none; vertical-align: top;">
-      <h3>🛡️ Cybersecurity</h3>
-      <br>
+    <td align="center" valign="top" width="33%" style="border: none;">
+      <h3 align="center">🛡️ Cybersecurity</h3>
       <img src="https://img.shields.io/badge/Cisco-Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Google-Cybersecurity_Foundations-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Microsoft-OS_&_Security-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/IBM-Cybersecurity_Careers-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /><br><br>
-      <h3 style="margin-top: 30px;">📊 Data Science</h3>
-      <br>
+      <img src="https://img.shields.io/badge/IBM-Cybersecurity_Careers-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
+    </td>
+    <td align="center" valign="top" width="33%" style="border: none;">
+      <h3 align="center">📊 Data Science</h3>
       <img src="https://img.shields.io/badge/Meta-Data_Analytics-0668E1?style=for-the-badge&logo=meta&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/Google-Data_Everywhere-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br><br>
       <img src="https://img.shields.io/badge/IBM-What_is_Data_Science-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
@@ -125,11 +120,10 @@
   </tr>
 </table>
 
-<table width="100%" style="background-color: transparent; border: none; margin-top: 20px;">
+<table align="center" width="100%" style="background-color: transparent; border: none; margin-top: 20px;">
   <tr style="border: none;">
-    <td width="100%" style="border: none; vertical-align: top;">
-      <h3>⚙️ Tech & Specialized Domains</h3>
-      <br>
+    <td align="center" valign="top" width="100%" style="border: none;">
+      <h3 align="center">⚙️ Tech & Specialized Domains</h3>
       <img src="https://img.shields.io/badge/Real_Madrid_Uni-AI_in_Sports-00529F?style=for-the-badge&logo=realmadrid&logoColor=white" />&nbsp;
       <img src="https://img.shields.io/badge/Johns_Hopkins-Biology_of_Cancer-68ACE5?style=for-the-badge&logo=johnshopkinsuniversity&logoColor=white" />&nbsp;
       <img src="https://img.shields.io/badge/McMaster_Uni-DNA_Decoded-7A1A3A?style=for-the-badge&logo=mcmasteruniversity&logoColor=white" />&nbsp;
@@ -146,22 +140,6 @@
 
 <div align="center">
   <a href="https://github.com/x4uc">
-    <img src="https://github-readme-stats.vercel.app/api?username=x4uc&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&ring_color=00FFD1&include_all_commits=true&count_private=true&v=1" alt="GitHub Enterprise Stats" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/x4uc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x4uc&layout=compact&hide_border=true&bg_color=00000000&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&v=1" alt="Top Architecture Languages" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/x4uc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=x4uc&theme=dark&hide_border=true&background=00000000&ring=00FFD1&fire=00FFD1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFD1&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak Stats" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=x4uc&bg_color=0D1117&color=ffffff&line=00FFD1&point=ffffff&area=true&hide_border=true&custom_title=Enterprise%20System%20Commits&title_color=ffffff&animate=true" alt="Animated Contribution Graph" width="100%" />
   </a>
 </div>
