@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200" style="background: #0D1117; border-radius: 12px; border: 1px solid rgba(255, 255, 255, 0.1); max-width: 100%;">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00FFD1" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="1" />
+    </radialGradient>
+    <style>
+      .node { fill: #00FFD1; opacity: 0.8; animation: pulse 3s infinite alternate; }
+      .line { stroke: #1BA0D7; stroke-width: 1; opacity: 0.4; animation: scan 6s linear infinite; stroke-dasharray: 4 2; }
+      .text-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 900; font-size: 34px; fill: #ffffff; letter-spacing: 2px; }
+      .text-sub { font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 600; font-size: 15px; fill: #00FFD1; letter-spacing: 1px; }
+      .text-desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; font-size: 12px; fill: #8b949e; letter-spacing: 0.5px; }
+      @keyframes pulse { 0% { r: 1.5; opacity: 0.5; } 100% { r: 3.5; opacity: 1; filter: drop-shadow(0 0 6px #00FFD1); } }
+      @keyframes scan { 0% { stroke-dashoffset: 60; } 100% { stroke-dashoffset: 0; } }
+      .grid { stroke: rgba(255, 255, 255, 0.03); stroke-width: 1; }
+    </style>
+    <pattern id="gridPattern" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" class="grid" />
+    </pattern>
+  </defs>
+  <rect width="100%" height="100%" fill="#0D1117" />
+  <rect width="100%" height="100%" fill="url(#gridPattern)" />
+  <rect width="100%" height="100%" fill="url(#glow)" />
+  
+  <g class="line">
+    <path d="M50 100 Q 150 20, 300 70 T 750 120" fill="none" />
+    <path d="M100 160 Q 300 200, 500 120 T 720 40" fill="none" />
+    <path d="M200 40 Q 400 0, 600 60 T 780 180" fill="none" />
+  </g>
+  
+  <circle cx="50" cy="100" r="2" class="node" style="animation-delay: 0s;" />
+  <circle cx="150" cy="20" r="2" class="node" style="animation-delay: 1.2s;" />
+  <circle cx="300" cy="70" r="2" class="node" style="animation-delay: 0.5s;" />
+  <circle cx="750" cy="120" r="2" class="node" style="animation-delay: 2.1s;" />
+  
+  <circle cx="100" cy="160" r="2" class="node" style="animation-delay: 0.8s;" />
+  <circle cx="300" cy="200" r="2" class="node" style="animation-delay: 1.7s;" />
+  <circle cx="500" cy="120" r="2" class="node" style="animation-delay: 0.4s;" />
+  <circle cx="720" cy="40" r="2" class="node" style="animation-delay: 1.9s;" />
+  
+  <circle cx="200" cy="40" r="2" class="node" style="animation-delay: 2.5s;" />
+  <circle cx="400" cy="0" r="2" class="node" style="animation-delay: 1.1s;" />
+  <circle cx="600" cy="60" r="2" class="node" style="animation-delay: 0.3s;" />
+  <circle cx="780" cy="180" r="2" class="node" style="animation-delay: 2.8s;" />
+  
+  <text x="400" y="90" text-anchor="middle" class="text-title">ABDALLAH ABIDA</text>
+  <text x="400" y="125" text-anchor="middle" class="text-sub">Chief Technology Officer &amp; AI-Native Architect</text>
+  <text x="400" y="152" text-anchor="middle" class="text-desc">Architecting Zero-Trust Intelligence &amp; High-Performance Ecosystems</text>
+</svg>
