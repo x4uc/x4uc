@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/x4uc">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=Abdallah+Abida;Chief+Technology+Officer;AI-Native+Software+Architect;Architecting+Zero-Trust+Ecosystems" alt="Typing SVG" />
-  </a>
+  <img src="hero.svg" alt="Abdallah Abida - AI Architect" width="100%" />
 </div>
 
 <br>
