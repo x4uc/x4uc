@@ -142,11 +142,11 @@
 
 <br><br>
 
-## 📈 Live Telemetry & Execution Metrics
+## 📈 Global Telemetry & Engineering Footprint
 
 <div align="center">
   <a href="https://github.com/x4uc">
-    <img src="https://github-readme-stats.vercel.app/api?username=x4uc&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&ring_color=00FFD1" alt="GitHub Enterprise Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=x4uc&show_icons=true&hide_border=true&bg_color=00000000&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&ring_color=00FFD1&include_all_commits=true&count_private=true&v=1" alt="GitHub Enterprise Stats" />
   </a>
 </div>
 
@@ -154,7 +154,7 @@
 
 <div align="center">
   <a href="https://github.com/x4uc">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x4uc&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff" alt="Top Architecture Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x4uc&layout=compact&hide_border=true&bg_color=00000000&title_color=00FFD1&icon_color=00FFD1&text_color=ffffff&v=1" alt="Top Architecture Languages" />
   </a>
 </div>
 
@@ -162,6 +162,6 @@
 
 <div align="center">
   <a href="https://github.com/x4uc">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=x4uc&bg_color=0D1117&color=ffffff&line=00FFD1&point=ffffff&area=true&hide_border=true&custom_title=Enterprise%20System%20Commits&title_color=ffffff&animate=true" alt="Animated Contribution Graph" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=x4uc&theme=dark&hide_border=true&background=00000000&ring=00FFD1&fire=00FFD1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FFD1&sideLabels=ffffff&dates=8b949e" alt="GitHub Streak Stats" width="100%" />
   </a>
 </div>
