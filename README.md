@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./hero.svg" width="100%" alt="Abdallah Abida - AI Architect" />
+  <img src="https://cdn.jsdelivr.net/gh/x4uc/x4uc@main/hero.svg" width="100%" alt="Abdallah Abida - AI Architect" />
 </div>
 
 <br>
